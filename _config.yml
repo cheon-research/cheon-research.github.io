@@ -6,7 +6,7 @@ url     : https://cheon-research.github.io
 baseurl : # does not include hostname
 title   : Cheon's Lab
 description: > # this means to ignore newlines until "Language & timezone"
-  Your Site Description
+  Cheon's Research Lab
 
 
 ## => Language and Timezone
@@ -27,7 +27,7 @@ author:
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
   twitter   : # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
   telegram  : # "user_name" the last part of your profile url, e.g. https://t.me/user_name
-  linkedin  : # "user_name" the last part of your profile url, e.g. https://www.linkedin.com/in/user_name
+  linkedin  : sangjin-cheon-b3364a19b
   github    : cheon-research
 
 
@@ -127,11 +127,11 @@ search:
 ## => Analytics
 ##############################
 analytics:
-  provider: false # false (default), "google", "custom"
+  provider: google # false (default), "google", "custom"
 
   ## Google Analytics
   google:
-    tracking_id : # Google Analytics id for the site
+    tracking_id : UA-171290228-1
     anonymize_ip: false # Anonymize IP tracking for Analytics
 
 
